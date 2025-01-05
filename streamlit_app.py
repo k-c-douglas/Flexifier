@@ -217,7 +217,7 @@ if __name__ == "__main__":
             os.remove(file)
 
     st.title('Flexifier: make it flexi')
-    st.write("Generate flexi 3D models from images! If you like the project put a like on [Printables](https://www.printables.com/it/model/505713-flexifier-make-it-flexi) or [support me with a coffee](https://www.paypal.com/donate/?hosted_button_id=V4LJ3Z3B3KXRY)! On Printables you can find more info about the project.", unsafe_allow_html=True)
+    st.write("Generate flexi 3D models from images! It doesn't all work - so pay attention to Ken!!", unsafe_allow_html=True)
 
     col1, col2, col3 = st.columns(3)
     # Input type 
